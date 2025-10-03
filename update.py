@@ -87,7 +87,7 @@ def totaltime():
 
 
 start()
-update("sudo pacman -Syu", "PACKMAN")
+update("sudo pacman -Syu", "PACMAN")
 update("yay -Sua", "YAY")
 update("sudo flatpak update", "FLATPAK")
 totaltime()
